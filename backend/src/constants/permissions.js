@@ -1,0 +1,8 @@
+export const PERMISSIONS = [
+  "CREATE_TASK",
+  "EDIT_TASK",
+  "DELETE_TASK",
+  "VIEW_ONLY",
+  "MANAGE_MEMBERS",
+  "ASSIGN_ROLES"
+];
